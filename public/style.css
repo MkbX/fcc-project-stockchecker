@@ -1,0 +1,38 @@
+#userstories {
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+.p-50 {
+  margin: 50px;
+}
+
+#testui {
+  margin-left: 5%;
+}
+
+.text-align-left {
+  text-align: left;
+}
+
+input[type='text'] {
+  width: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.m-50 {
+  margin: 50px;
+}
+
+.mt-200 {
+  margin-top: 200px;
+}
+
+form {
+  padding: 20px;
+}
+
+button {
+  margin-top: 10px !important; 
+}
